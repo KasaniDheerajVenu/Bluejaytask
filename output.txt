@@ -1,0 +1,26 @@
+Invalid data format in row: ['WFS000054', 'Active', '', '', '', '', '', 'SiWgh, PraGhjEM', '000054', '', '']
+Invalid data format in row: ['WFS000127', 'Active', '09/18/2023 12:30 PM', '', '0:00', '09/10/2023', '09/23/2023', 'GaXCes, EXias XEpez', '000127', '', '']
+Invalid data format in row: ['WFS000153', 'Active', '09/18/2023 02:09 PM', '', '0:00', '09/10/2023', '09/23/2023', 'CaMaXaWE, CeghaW', '000153', '', '']
+Invalid data format in row: ['WFS000153', 'Active', '09/19/2023 01:41 PM', '', '0:00', '09/10/2023', '09/23/2023', 'CaMaXaWE, CeghaW', '000153', '', '']
+Invalid data format in row: ['WFS000174', 'Active', '', '', '', '', '', 'MErres, EdAardE', '000174', '', '']
+Invalid data format in row: ['WFS000196', 'Active', '', '', '', '', '', 'XEpes, JerrEd', '000196', '', '']
+Invalid data format in row: ['WFS000256', 'Active', '', '', '', '', '', 'Ware, JEshAa', '000256', '', '']
+Invalid data format in row: ['WFS000432', 'Active', '', '', '', '', '', 'KaAr, ArviWder', '000432', '', '']
+Invalid data format in row: ['WFS000436', 'Active', '', '', '', '', '', 'WiXGard, Shadrack', '000436', '', '']
+Invalid data format in row: ['WFS000528', 'Active', '09/22/2023 09:56 AM', '', '0:00', '09/10/2023', '09/23/2023', 'CeciWa, SiXvesMre Jr', '000528', '', '']
+Invalid data format in row: ['WFS000529', 'Active', '', '', '', '', '', 'PearsEW, DeXviW DevEW', '000529', '', '']
+Invalid data format in row: ['WFS000532', 'Active', '', '', '', '', '', 'REiz, CarviW E', '000532', '', '']
+Invalid data format in row: ['WFS000553', 'Active', '', '', '', '', '', 'SEMEsEXis, Richar SMeveW', '000553', '', '']
+Invalid data format in row: ['WFS000591', 'Active', '', '', '', '', '', 'ArveXE RECerE, AWdres JesAs', '000591', '', '']
+Employee CaMaXaWE, CeghaW (Position ID: WFS000153) has less than 10 hours between shifts on 2023-09-11.
+Employee CaMaXaWE, CeghaW (Position ID: WFS000153) has less than 10 hours between shifts on 2023-09-20.
+Employee Xee, XaCar (Position ID: WFS000200) has less than 10 hours between shifts on 2023-09-12.
+Employee Xee, XaCar (Position ID: WFS000200) has less than 10 hours between shifts on 2023-09-18.
+Employee Xee, XaCar (Position ID: WFS000200) has less than 10 hours between shifts on 2023-09-19.
+Employee De Xa Cerda, IgWaciE (Position ID: WFS000318) has less than 10 hours between shifts on 2023-09-22.
+Employee MraW, WiXXiaC Ha (Position ID: WFS000345) has less than 10 hours between shifts on 2023-09-21.
+Employee CEreira Jr, JEse (Position ID: WFS000456) has less than 10 hours between shifts on 2023-09-14.
+Employee DeXgadiXXE REdarMe, ChrisMiaW S (Position ID: WFS000523) has less than 10 hours between shifts on 2023-09-17.
+Employee DeXgadiXXE REdarMe, ChrisMiaW S (Position ID: WFS000523) has worked for more than 14 hours in a single shift on 2023-09-17.
+Employee HaCiXMEW, DeaWMe DevEW (Position ID: WFS000536) has less than 10 hours between shifts on 2023-09-21.
+Employee REdrigAez, GraWdEW AWgeX (Position ID: WFS000550) has less than 10 hours between shifts on 2023-09-23.
